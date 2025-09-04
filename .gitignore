@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+*.tmp
+Thumbs.db
+.DS_Store
+
